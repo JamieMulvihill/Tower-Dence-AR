@@ -1,0 +1,333 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="CannonTower">
+    <Position X="9" Y="43.75" Width="9.5" />
+    <TypeIdentifier>
+      <HashCode>AAUEQAAAAAIAAQAIAAkAAAQAAAgEAACAAAACEFAQgAA=</HashCode>
+      <FileName>M:\CMP-404\ar-app-JamieMulvihill\CannonTower.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Enemy">
+    <Position X="4.5" Y="39" Width="3.75" />
+    <TypeIdentifier>
+      <HashCode>EgQAAgAAABAAAQAAARAAQBAABAEAQQQQEAESIhEBIAg=</HashCode>
+      <FileName>M:\CMP-404\ar-app-JamieMulvihill\Enemy.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EnemyManager" Collapsed="true">
+    <Position X="54" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgQAAACAAACKAAAAAAAAQAAAAAAAIADIBAAEAABAAA=</HashCode>
+      <FileName>M:\CMP-404\ar-app-JamieMulvihill\EnemyManager.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameObject">
+    <Position X="24.75" Y="28.75" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>ARYUABSGACAAAEVACAQEIAAICEAMQmEAEATCBAIEgEA=</HashCode>
+      <FileName>M:\CMP-404\ar-app-JamieMulvihill\GameObject.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameState">
+    <Position X="29.25" Y="5.25" Width="6" />
+    <TypeIdentifier>
+      <HashCode>dndQWonAVpDhECADWUBVFSEKFCIwQEZIQvMCS5AJIAs=</HashCode>
+      <FileName>M:\CMP-404\ar-app-JamieMulvihill\GameState.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GateTower">
+    <Position X="19.25" Y="43.75" Width="5.75" />
+    <TypeIdentifier>
+      <HashCode>AAUERAAAAAAAAAAAAAkgAAAAAMQEAAKBAAACEFAYgAA=</HashCode>
+      <FileName>M:\CMP-404\ar-app-JamieMulvihill\GateTower.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GUI" Collapsed="true">
+    <Position X="57.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASzCDGQAAsIgCAoKAqAIAAAgQKAQAGohBQjgjDQAwg=</HashCode>
+      <FileName>M:\CMP-404\ar-app-JamieMulvihill\GUI.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HelpState">
+    <Position X="6.75" Y="5.25" Width="3" />
+    <TypeIdentifier>
+      <HashCode>ACQCAAAAAAAAAAAAAAAAACAQAAAAAAAAAhACABAAAAA=</HashCode>
+      <FileName>M:\CMP-404\ar-app-JamieMulvihill\HelpState.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LoseState">
+    <Position X="12" Y="5.25" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>ACQAAAAAAAAAAAQAAAAAACAEAAAAAAAAABACABAAAAA=</HashCode>
+      <FileName>M:\CMP-404\ar-app-JamieMulvihill\LoseState.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Marker" Collapsed="true">
+    <Position X="52.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAEAAAQAAAAAnABAEAAQAABAABABAgQAAAEAAAABA=</HashCode>
+      <FileName>M:\CMP-404\ar-app-JamieMulvihill\Marker.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MenuState">
+    <Position X="23" Y="5.25" Width="3.5" />
+    <NestedTypes>
+      <Enum Name="MenuState::BUTTONS" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>M:\CMP-404\ar-app-JamieMulvihill\MenuState.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>ACQAAADAAAIAIAAAJgAAACACBACACAJAwFhCABgIAIA=</HashCode>
+      <FileName>M:\CMP-404\ar-app-JamieMulvihill\MenuState.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PrimitiveBuilder" Collapsed="true">
+    <Position X="52.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAABAAAAAAAEAAABAABIAAAAAIAAABgQAEASAEhCABA=</HashCode>
+      <FileName>M:\CMP-404\ar-app-JamieMulvihill\primitive_builder.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Projectile">
+    <Position X="42.5" Y="39" Width="6" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAIAAAAEAAAIgQAQAAABAAAESAAAAwSAgEAIAI=</HashCode>
+      <FileName>M:\CMP-404\ar-app-JamieMulvihill\Projectile.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjectileManager" Collapsed="true">
+    <Position X="54" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAAhAAAAAAAAQAAAAAAAAAAABBAAAIAAEA=</HashCode>
+      <FileName>M:\CMP-404\ar-app-JamieMulvihill\ProjectileManager.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjectileTower">
+    <Position X="25.75" Y="43.75" Width="16" />
+    <TypeIdentifier>
+      <HashCode>AAcEQAIAAAIAAQAAAAkgAAAAAAAAAACBAAACEFAYAAA=</HashCode>
+      <FileName>M:\CMP-404\ar-app-JamieMulvihill\ProjectileTower.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SplashScreenState">
+    <Position X="17" Y="5.25" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAQAAACAgAIAAAAAIAAAQgACAQEBAABAQDACABAAAIA=</HashCode>
+      <FileName>M:\CMP-404\ar-app-JamieMulvihill\SplashScreenState.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="State">
+    <Position X="24.5" Y="0.5" Width="5.25" />
+    <NestedTypes>
+      <Enum Name="State::GAMESTATE" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>M:\CMP-404\ar-app-JamieMulvihill\State.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AIQAAACAAAAAAgAAAAAAAAAAAAAAAAAEgBACBBgAAAA=</HashCode>
+      <FileName>M:\CMP-404\ar-app-JamieMulvihill\State.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tower">
+    <Position X="18" Y="39" Width="14.75" />
+    <TypeIdentifier>
+      <HashCode>AAUAQAAQAAAAAQAABAlCAAAAAAAAAAAAAAACEAARgAA=</HashCode>
+      <FileName>M:\CMP-404\ar-app-JamieMulvihill\Tower.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WinState">
+    <Position X="37.5" Y="5.25" Width="5.25" />
+    <TypeIdentifier>
+      <HashCode>ACQAgCGACAAAAIIMIAAKDCAhAAAACAAAhFhCABAAAAA=</HashCode>
+      <FileName>M:\CMP-404\ar-app-JamieMulvihill\WinState.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="gef::Platform" Collapsed="true">
+    <Position X="57.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAQikGACAMhQALQsYwSRGAABHAgFAEYADQeEMBFCYAI=</HashCode>
+      <FileName>m:\CMP-404\gef_abertay\system\platform.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="gef::TouchInputManager" Collapsed="true">
+    <Position X="52.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgSCAAAAAQAAAAIAAACEAAAAAAQAACAgAAAAEAAAABo=</HashCode>
+      <FileName>m:\CMP-404\gef_abertay\input\touch_input_manager.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="gef::SpriteRenderer" Collapsed="true">
+    <Position X="55.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIQAAgIAEAAAAAAAAiAAAAAAAAAEEAABAQAAAggIAA=</HashCode>
+      <FileName>m:\CMP-404\gef_abertay\graphics\sprite_renderer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="gef::ImageData" Collapsed="true">
+    <Position X="50.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEABAAAABAAQgQgAAAICAEAAAAAAAAgAAAAAAAgA=</HashCode>
+      <FileName>m:\CMP-404\gef_abertay\graphics\image_data.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="gef::PNGLoader" Collapsed="true">
+    <Position X="50.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABkAAAAEABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>m:\CMP-404\gef_abertay\assets\png_loader.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="gef::Font" Collapsed="true">
+    <Position X="55.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAgAAAQAAAABAABCAAAAAAAAAAAAAAAAAAAAgiAAE=</HashCode>
+      <FileName>m:\CMP-404\gef_abertay\graphics\font.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="gef::Renderer3D" Collapsed="true">
+    <Position X="55.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAIBAixKIAAJAAEQAggoKAAAAACSEEQAFAUQgEkygIA=</HashCode>
+      <FileName>m:\CMP-404\gef_abertay\graphics\renderer_3d.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="gef::MeshInstance" Collapsed="true">
+    <Position X="25.75" Y="27.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAAAAAAIABAAAAAAACAFAAAAAAAAAAAgAAA=</HashCode>
+      <FileName>m:\CMP-404\gef_abertay\graphics\mesh_instance.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="gef::Shader" Collapsed="true">
+    <Position X="52.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAZAAAAgAIIAA=</HashCode>
+      <FileName>m:\CMP-404\gef_abertay\graphics\shader.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="gef::Material" Collapsed="true">
+    <Position X="54" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EEAAAAAAAAAEAAAAAAACAAAAAAAQAgAAAEAAAAAACAA=</HashCode>
+      <FileName>m:\CMP-404\gef_abertay\graphics\material.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="gef::Texture" Collapsed="true">
+    <Position X="57.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAgAAAAAAAAAAAAAEAAEAAAAIEAAAAAAA=</HashCode>
+      <FileName>m:\CMP-404\gef_abertay\graphics\texture.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="gef::Skeleton" Collapsed="true">
+    <Position X="54" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>m:\CMP-404\gef_abertay\animation\skeleton.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="gef::Mesh" Collapsed="true">
+    <Position X="55.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAEAAAAEAACAAAAAAhQACAAAgAEBAASAAAKhACgA=</HashCode>
+      <FileName>m:\CMP-404\gef_abertay\graphics\mesh.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="gef::VertexBuffer" Collapsed="true">
+    <Position X="54" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>m:\CMP-404\gef_abertay\graphics\vertex_buffer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="gef::RenderTarget" Collapsed="true">
+    <Position X="57.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgIAAAAAAAAAAAQgYAAAAAAAAAAAEkAAAEAAAAAAAAA=</HashCode>
+      <FileName>m:\CMP-404\gef_abertay\graphics\render_target.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="gef::AudioManager" Collapsed="true">
+    <Position X="52.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAEAAgAFAAgEFAAQAUAAAIAAEASAgEAAAGAAAA=</HashCode>
+      <FileName>m:\CMP-404\gef_abertay\audio\audio_manager.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="gef::TextureVita" Collapsed="true">
+    <Position X="50.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAAABQAEAAAgAAQAgIAAEAEQAAAAAA=</HashCode>
+      <FileName>m:\CMP-404\gef_abertay\platform\vita\graphics\texture_vita.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="gef::Scene" Collapsed="true">
+    <Position X="50.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABIgQAAAEAAABIAAAABAAAIQEICNAACAAAABAlAAAA=</HashCode>
+      <FileName>m:\CMP-404\gef_abertay\graphics\scene.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="gef::Animation" Collapsed="true">
+    <Position X="50.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>m:\CMP-404\gef_abertay\animation\animation.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="FixedPosition" Collapsed="true">
+    <Position X="50.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAACAAAABAAAAAAAAEAAAAAAAAgAAAAAAAAA=</HashCode>
+      <FileName>M:\CMP-404\ar-app-JamieMulvihill\GameState.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="gef::Touch" Collapsed="true">
+    <Position X="52.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>m:\CMP-404\gef_abertay\input\touch_input_manager.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="gef::VolumeInfo" Collapsed="true">
+    <Position X="54" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAA=</HashCode>
+      <FileName>m:\CMP-404\gef_abertay\audio\audio_manager.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Typedef Name="gef::TouchContainer" Collapsed="true">
+    <Position X="52.25" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>m:\CMP-404\gef_abertay\input\touch_input_manager.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="gef::TouchIterator" Collapsed="true">
+    <Position X="54" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>m:\CMP-404\gef_abertay\input\touch_input_manager.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="gef::ConstTouchIterator" Collapsed="true">
+    <Position X="50.5" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>m:\CMP-404\gef_abertay\input\touch_input_manager.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Enum Name="gef::TouchType" Collapsed="true">
+    <Position X="50.5" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAACABAQgAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>m:\CMP-404\gef_abertay\input\touch_input_manager.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,47 @@
+﻿  GameState.cpp
+M:\CMP-404\ar-app-JamieMulvihill\State.h(9,6): warning 1700: class "State" has virtual functions but non-virtual destructor
+  
+M:\CMP-404\ar-app-JamieMulvihill\Marker.h(20,34): warning 175: expression has no effect
+  
+M:\CMP-404\ar-app-JamieMulvihill\Marker.h(20,54): warning 942: missing return statement at end of non-void function "Marker::GetSphereCentre"
+  
+M:\CMP-404\ar-app-JamieMulvihill\Tower.h(7,6): warning 1700: class "Tower" has virtual functions but non-virtual destructor
+  
+M:\CMP-404\ar-app-JamieMulvihill\ProjectileTower.h(10,6): warning 1011: function "Tower::CheckRanges(gef::Matrix44, gef::Matrix44, gef::Matrix44, gef::Matrix44, PrimitiveBuilder *, gef::Mesh *, EnemyManager *, Enemy *)" is hidden by "ProjectileTower::CheckRanges" -- virtual function override intended?
+  
+M:\CMP-404\ar-app-JamieMulvihill\ProjectileTower.h(4,6): warning 1700: class "ProjectileTower" has virtual functions but non-virtual destructor
+  
+M:\CMP-404\ar-app-JamieMulvihill\ProjectileTower.h(14,45): warning 175: expression has no effect
+  
+M:\CMP-404\ar-app-JamieMulvihill\ProjectileTower.h(14,69): warning 942: missing return statement at end of non-void function "ProjectileTower::GetMarkerInverseTransform"
+  
+M:\CMP-404\ar-app-JamieMulvihill\GateTower.h(7,6): warning 1011: function "Tower::Init(gef::Mesh *)" is hidden by "GateTower::Init" -- virtual function override intended?
+  
+M:\CMP-404\ar-app-JamieMulvihill\GateTower.h(4,6): warning 1700: class "GateTower" has virtual functions but non-virtual destructor
+  
+M:\CMP-404\ar-app-JamieMulvihill\GateTower.h(12,45): warning 175: expression has no effect
+  
+M:\CMP-404\ar-app-JamieMulvihill\GateTower.h(12,69): warning 942: missing return statement at end of non-void function "GateTower::GetMarkerInverseTransform"
+  
+M:\CMP-404\ar-app-JamieMulvihill\CannonTower.h(12,6): warning 1011: function "Tower::CheckRanges(gef::Matrix44, gef::Matrix44, gef::Matrix44, gef::Matrix44, PrimitiveBuilder *, gef::Mesh *, EnemyManager *, Enemy *)" is hidden by "CannonTower::CheckRanges" -- virtual function override intended?
+  
+M:\CMP-404\ar-app-JamieMulvihill\CannonTower.h(7,6): warning 1700: class "CannonTower" has virtual functions but non-virtual destructor
+  
+M:\CMP-404\ar-app-JamieMulvihill\CannonTower.h(21,45): warning 175: expression has no effect
+  
+M:\CMP-404\ar-app-JamieMulvihill\CannonTower.h(21,69): warning 942: missing return statement at end of non-void function "CannonTower::GetMarkerInverseTransform"
+  
+M:\CMP-404\ar-app-JamieMulvihill\GameState.h(54,6): warning 1700: class "GameState" has virtual functions but non-virtual destructor
+  
+M:\CMP-404\ar-app-JamieMulvihill\LoseState.h(10,6): warning 1700: class "LoseState" has virtual functions but non-virtual destructor
+  
+M:\CMP-404\ar-app-JamieMulvihill\WinState.h(11,6): warning 1700: class "WinState" has virtual functions but non-virtual destructor
+  
+M:\CMP-404\ar-app-JamieMulvihill\GameState.cpp(669,1): warning 548: transfer of control bypasses initialization of:
+              variable "tower" (declared at line 671)
+              variable "cannon" (declared at line 678)
+  
+M:\CMP-404\ar-app-JamieMulvihill\GameState.cpp(826,6): warning 178: variable "markerIndex" was declared but never referenced
+  
+  ProjectileManager.cpp
+  ar_app.vcxproj -> M:\CMP-404\ar-app-JamieMulvihill\build\vs2017\PSVita_Debug\ar_app.self
